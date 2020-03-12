@@ -13,10 +13,11 @@
     <packaging>pom</packaging>
     <modules>
 
-        <!--
-
-        <module>shop-service-user</module>
         <module>shop-common</module>
+
+        <!--
+        <module>shop-service-user</module>
+
         <module>shop-common-config</module>
         <module>shop-common-service</module>
         <module>shop-common-redis</module>
@@ -35,7 +36,6 @@
         <module>shop-web-mobile</module>
 
         -->
-
     </modules>
 
     <groupId>com.github.zmm</groupId>
